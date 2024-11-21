@@ -22,7 +22,9 @@ Este retorna un archivo log, con el proceso y actualizaciones del tamaño de la 
 2. **simuladorMV.cpp**
 - Ejemplo de compilación para simuladorMV.cpp: g++ simuladorMV.cpp -o mvirtual
 - Ejemplo de ejecución para simuladorMV.cpp: ./mvirtual -m 3 -a FIFO -f archivo.txt
+  
 Se debe dar un archivo con un caso a evaluar, por ejemplo:
+
 - "0 1 3 4 1 2 5 1 2 3 4"
 - "0 1 2 3 4 0 1 2 3 4 5 6 7 8 9 5 6 7 8 9"
 
