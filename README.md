@@ -1,1 +1,1 @@
-# Proyecto-2-Sistemas-Operativos
+# Proyecto 2 - S.O
